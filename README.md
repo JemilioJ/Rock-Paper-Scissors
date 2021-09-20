@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A simple Python game. You play against the computer to see who can win 10 rounds first as you enter a one of three inputs for rock, paper, or scissors.
+A simple Python game. You play against the computer to see who can win 10 rounds first as you enter one of three inputs for rock, paper, or scissors.
